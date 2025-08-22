@@ -1,0 +1,193 @@
+[
+  {
+    "name": "python",
+    "aliases": [
+      "python3",
+      "py"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "numpy",
+    "aliases": [],
+    "category": "ML/DS"
+  },
+  {
+    "name": "pandas",
+    "aliases": [],
+    "category": "ML/DS"
+  },
+  {
+    "name": "scikit-learn",
+    "aliases": [
+      "sklearn"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "tensorflow",
+    "aliases": [
+      "tf"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "pytorch",
+    "aliases": [
+      "torch"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "nlp",
+    "aliases": [
+      "natural language processing"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "computer vision",
+    "aliases": [
+      "cv",
+      "image processing"
+    ],
+    "category": "ML/DS"
+  },
+  {
+    "name": "sql",
+    "aliases": [
+      "postgres",
+      "mysql",
+      "sqlite"
+    ],
+    "category": "Data"
+  },
+  {
+    "name": "git",
+    "aliases": [
+      "github",
+      "gitlab"
+    ],
+    "category": "Tools"
+  },
+  {
+    "name": "docker",
+    "aliases": [],
+    "category": "DevOps"
+  },
+  {
+    "name": "aws",
+    "aliases": [
+      "amazon web services",
+      "sagemaker"
+    ],
+    "category": "Cloud"
+  },
+  {
+    "name": "azure",
+    "aliases": [
+      "microsoft azure"
+    ],
+    "category": "Cloud"
+  },
+  {
+    "name": "gcp",
+    "aliases": [
+      "google cloud"
+    ],
+    "category": "Cloud"
+  },
+  {
+    "name": "linux",
+    "aliases": [
+      "ubuntu"
+    ],
+    "category": "OS"
+  },
+  {
+    "name": "fastapi",
+    "aliases": [],
+    "category": "Backend"
+  },
+  {
+    "name": "streamlit",
+    "aliases": [],
+    "category": "Frontend"
+  },
+  {
+    "name": "data structures",
+    "aliases": [
+      "dsa"
+    ],
+    "category": "CS"
+  },
+  {
+    "name": "algorithms",
+    "aliases": [],
+    "category": "CS"
+  },
+  {
+    "name": "java",
+    "aliases": [],
+    "category": "Programming"
+  },
+  {
+    "name": "c++",
+    "aliases": [
+      "cpp"
+    ],
+    "category": "Programming"
+  },
+  {
+    "name": "html",
+    "aliases": [],
+    "category": "Web"
+  },
+  {
+    "name": "css",
+    "aliases": [],
+    "category": "Web"
+  },
+  {
+    "name": "javascript",
+    "aliases": [
+      "js",
+      "node"
+    ],
+    "category": "Web"
+  },
+  {
+    "name": "react",
+    "aliases": [],
+    "category": "Web"
+  },
+  {
+    "name": "kubernetes",
+    "aliases": [
+      "k8s"
+    ],
+    "category": "DevOps"
+  },
+  {
+    "name": "power bi",
+    "aliases": [
+      "powerbi"
+    ],
+    "category": "BI"
+  },
+  {
+    "name": "tableau",
+    "aliases": [],
+    "category": "BI"
+  },
+  {
+    "name": "xgboost",
+    "aliases": [],
+    "category": "ML/DS"
+  },
+  {
+    "name": "lightgbm",
+    "aliases": [],
+    "category": "ML/DS"
+  }
+]
